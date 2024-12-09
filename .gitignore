@@ -1,0 +1,13 @@
+# Ignore all
+*
+
+# Unignore all with extensions and dirs
+!*.*
+!*/
+
+# Ignore compilation files
+*.o
+*.hi
+
+# Ignore input files
+input.txt
